@@ -177,3 +177,11 @@ tr#service1{
     font-size: 18px;
     align-items: center;
 }
+#tr{
+    text-align: center;
+}
+th{
+    background-color: gainsboro;
+    padding: 12px;
+    height: 49px;
+}
