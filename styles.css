@@ -201,3 +201,11 @@ th{
     background-color: whitesmoke;
     border: 1px solid whitesmoke;
 }
+.our-customer{
+    height: auto;
+    width: auto;  
+    padding: 120px;  
+    padding-top: 48px;
+    margin-bottom: 0px;
+    background-color: whitesmoke; 
+}
