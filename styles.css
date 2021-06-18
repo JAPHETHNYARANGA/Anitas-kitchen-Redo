@@ -209,3 +209,12 @@ th{
     margin-bottom: 0px;
     background-color: whitesmoke; 
 }
+.about{
+    height: 200;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 2px;
+    flex-direction: row;
+    box-shadow: 0px 0px 6px grey;
+    padding: 18px;
+}
