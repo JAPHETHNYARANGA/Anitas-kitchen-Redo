@@ -137,6 +137,7 @@ tr#service1{
     text-align: center;
 
 }
+
 #drinkstext{
     float: right;
     width: 50%;
@@ -264,4 +265,21 @@ th{
     color: white;
     opacity: 1;
     padding-left: 10px;
+}
+.footer{
+    text-align: center;
+    padding-top: 40px; 
+    color: white;
+    font-size: 18px;
+    
+}
+
+
+#company-rights{
+    font-size: 15px;
+}
+#straight-logo{
+    align-items: center;
+    display: flex;
+    justify-content:center;
 }
