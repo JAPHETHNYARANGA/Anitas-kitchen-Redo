@@ -223,3 +223,13 @@ th{
     height: 210px; 
     margin: auto;
 }
+#about{
+    flex: 2;
+    margin-left: 40px;
+}
+.container{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin: 10px; 
+  }
