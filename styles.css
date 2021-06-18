@@ -1,0 +1,38 @@
+body{
+    background-color: #d1bbb4;
+    max-width: 1200px;
+    max-height: 100%;
+    margin: 0 auto;
+    font-size: 22px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.content{
+    margin: 0 auto;
+    max-width: 100%;
+    background-color:#F15A29;
+    border-radius:2px;
+    color: black;  
+}
+.navicon{
+    margin: 50px;
+}
+#navicon{
+    width: 50px;
+    height: 5px;
+    background-color: #fff;
+    margin: 6px 0;
+}
+.menu{
+    background-image: url('assets/backgrounds/landing.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    font-family:serif;
+}
