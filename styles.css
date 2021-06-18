@@ -161,6 +161,12 @@ tr#service1{
     padding-bottom: 0px;
     height: auto;
 }
+#food{
+    display:flex;
+    flex-direction: column;
+    overflow: auto;
+    margin: 5px ;
+}
 .list {
     
     display: flex;
