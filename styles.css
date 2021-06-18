@@ -107,7 +107,7 @@ tr#service1{
 #dinner{
     background-image: url('images/breakdfastlunchdinner/dinner2.jpg');
 }
-#food{
+#food1{
     padding:40px;
     background-color: whitesmoke;
     height: auto;
@@ -117,6 +117,7 @@ tr#service1{
 .fastfood{
     display: flex;
     background-color: whitesmoke;
+    
 }
 #fastfoodimage1{
     width: 50%;
@@ -125,7 +126,7 @@ tr#service1{
     padding-right: 20px;
     
 }  
-#imgs1{
+#image1{
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -211,8 +212,8 @@ tr#service1{
 }
 th{
     background-color: gainsboro;
-    padding: 12px;
-    height: 49px;
+    padding: 10px;
+    height: 50px;
     border: 1px solid rgb(206, 203, 203);
 }
 .foodtype{
@@ -230,22 +231,22 @@ th{
     background-color: whitesmoke;
     border: 1px solid whitesmoke;
 }
-.our-customer{
+.customers{
     height: auto;
     width: auto;  
     padding: 120px;  
-    padding-top: 48px;
-    margin-bottom: 0px;
+    padding-top: 50px;
     background-color: whitesmoke; 
+    margin-bottom: 0px;
 }
-.about{
+.abt{
     height: 200;
     display: flex;
+    flex-direction: row;
     box-sizing: border-box;
     border-radius: 2px;
-    flex-direction: row;
     box-shadow: 0px 0px 6px grey;
-    padding: 18px;
+    padding: 20px;
 }
 #line { 
     border-left: 1px solid grey;
@@ -256,12 +257,20 @@ th{
     flex: 2;
     margin-left: 40px;
 }
-.container{
-    align-items: center;
-    display:flex;
-    justify-content: center;
-    margin: 10px; 
-  }
+#vertical { 
+    border-left: 1px solid grey;
+    height: 210px; 
+    margin: auto;
+}
+#review, #about{
+    text-align: center; 
+    font-size: 16.5px;
+}
+#review{
+    flex: 3;
+    margin-right: 40px;
+    text-align: center;
+}
   .delivery-details{
     background-image: url('images/breakdfastlunchdinner/subscribe (1).jpg');
     background-repeat: no-repeat;
