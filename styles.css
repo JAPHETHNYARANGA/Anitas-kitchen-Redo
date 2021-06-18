@@ -184,4 +184,20 @@ th{
     background-color: gainsboro;
     padding: 12px;
     height: 49px;
+    border: 1px solid rgb(206, 203, 203);
+}
+.foodtype{
+    margin: 0px;
+    width: 100%;
+    border-collapse: collapse;
+}
+.foodtype{
+    margin: 0px;
+    width: 100%;
+    border-collapse: collapse;
+}
+#classified{
+    color: #F15A29;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
 }
