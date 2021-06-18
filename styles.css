@@ -79,3 +79,68 @@ tr#service1{
 #dinner{
     background-image: url('images/breakdfastlunchdinner/dinner2.jpg');
 }
+#food{
+    padding:40px;
+    background-color: whitesmoke;
+    height: auto;
+    width: auto;
+
+}
+.fastfood{
+    display: flex;
+    background-color: whitesmoke;
+}
+#fastfoodimage1{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 40px;
+    padding-right: 20px;
+    
+}  
+#imgs1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 15px solid whitesmoke;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px grey;
+    overflow: hidden;
+}
+#fastfoodtext{
+    width: 50%;
+    height: auto;
+    padding: 30px;
+    margin-left: 10px;
+    font-size: 18px;  
+}
+.drinks{
+    display: flex;
+    background-color: whitesmoke;
+}
+ 
+#imgs2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border: 15px solid whitesmoke;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px grey;
+    overflow: hidden;
+}
+#drinkstext{
+    float: right;
+    width: 50%;
+    padding: 20px;
+    padding-right: 50px;
+    margin-left: 10px;
+    padding-right: 20px;
+    text-align: right;
+    font-size: 18px;  
+}
+#drinkimage{
+    width: 50%;
+    box-sizing: border-box;
+    float: right;
+    padding: 20px;
+    padding-right: 50px;
+} 
