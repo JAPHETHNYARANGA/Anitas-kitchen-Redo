@@ -218,3 +218,8 @@ th{
     box-shadow: 0px 0px 6px grey;
     padding: 18px;
 }
+#line { 
+    border-left: 1px solid grey;
+    height: 210px; 
+    margin: auto;
+}
