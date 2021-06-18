@@ -244,3 +244,24 @@ th{
     position: relative;
     color: whitesmoke;
 }
+#Subscribe{
+    background-color: #F15A29;
+    width: 200px;
+    height:50px ;
+    border:none;
+    color: whitesmoke;
+}
+#text{
+    background-color: rgb(88, 87, 87);
+    width: 400px;
+    height:50px ;
+    border: none;
+    margin-top: 5px;
+    margin: 20px;
+    opacity: 0.5;       /*makes inputfield see through*/
+}
+::placeholder{
+    color: white;
+    opacity: 1;
+    padding-left: 10px;
+}
