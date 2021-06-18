@@ -43,6 +43,34 @@ body{
     color: white;
    
 }
+.arrow {
+    border: solid #F15A29;
+    border-width: 0 3px 3px 0;
+    padding: 5px;
+    text-align: center;
+}
+.right {
+    transform: rotate(-45deg);
+    float: right;
+}
+.left {
+    transform: rotate(135deg);
+    float: left;
+}
+.container{
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin: 10px; 
+  }
+
+#viewgallery{
+    background-color: whitesmoke;
+    width: 200px;
+    height:55px ;
+    color: #F15A29;
+    border:1px solid #F15A29;
+}
 .type{
     margin: 0px;
     width: 100%;
